@@ -3,7 +3,7 @@
 ### 👋 Hewwo! I'm [Lunekiska]
 
 <a href="https://twitter.com/lemq_ocp">
-    <img align="left" alt="Twitter" width="20px" src="https://raw.githubusercontent.com/lunekiska/lunekisks/master/assets/icons/twitter.svg">
+    <img align="left" alt="Twitter" width="20px" src="https://raw.githubusercontent.com/lunekiska/lunekiska/master/assets/icons/twitter.svg">
 </a>
 
 <a href="https://reddit.com/u/dark-vookies">
