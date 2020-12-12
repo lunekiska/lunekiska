@@ -9,3 +9,22 @@
 <a href="https://reddit.com/u/dark-vookies">
     <img align="left" alt="Reddit" width="20px" src="https://raw.githubusercontent.com/lunekiska/lunekiska/master/assets/icons/reddit.svg">
 </a>
+
+<br />
+<br />
+
+Hey! I'm Lunekiska
+I am the founder and code developer at **[@KemonoPixl](https://github.com/KemonoPixl)**
+
+<br />
+<br />
+
+#### 📈 Stats
+
+**NOTE:** Some stats may be incorrect as contributions to organizations
+are not counted.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lunekiska&count_private=true&theme=tokyonight&show_icons=true)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
