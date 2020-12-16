@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hey! I'm Lunekiska
+Hey! I'm Lunekiska, that lovely person from various communities 😄
 I am the founder and code developer at **[@KemonoPixl](https://github.com/KemonoPixl)**
 
 <br />
