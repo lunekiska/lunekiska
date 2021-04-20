@@ -16,7 +16,8 @@
 Hey! I'm Lunekiska, that lovely person from various communities 😄
 <br />
 I am the founder and code developer at **[@KemonoPixl](https://github.com/KemonoPixl)**
-
+<br />
+Maybe more info @ **[Github webpage](https://lunekiska.github.io)** , also something here **[Another page](https://lunekiska.uwu.ai)**
 <br />
 <br />
 
