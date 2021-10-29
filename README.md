@@ -19,6 +19,8 @@ I am the founder and code developer at **[@KemonoPixl](https://github.com/Kemono
 <br />
 Maybe more info @ **[Github webpage](https://lunekiska.github.io)** , also something here **[Another page](https://lunekiska.uwu.ai)**
 <br />
+I currently know Polish and English, but I wanna learn Japanese, Korean and maybe Chinese too
+<br />
 <br />
 
 
