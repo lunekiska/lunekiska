@@ -16,6 +16,7 @@
 Hey! I'm Lunekiska, that lovely person from various communities 😄
 <br />
 I am the founder and code developer at **[@KemonoPixl](https://github.com/KemonoPixl)**
+Maybe some datapack creation in future here -> **[@TailDataCode]([https://github.com/KemonoPixl](https://github.com/TailDataCode))** / **[TDC webpage](tdc.kisca.dev)**
 <br />
 Maybe more info @ **[Github webpage](https://lunekiska.github.io)** , also something here **[Another page](https://lunekiska.uwu.ai)**
 <br />
