@@ -1,4 +1,4 @@
-<img align="left" alt="Avatar" width="200px" src="https://lunekiska.uwu.ai/assets/images/image01.jpg" />
+<img align="left" alt="Avatar" width="200px" src="https://www.kisca.dev/img/caty-facey-uwu.png" />
 
 ### 👋 Hewwo! I'm Lunekiska
 
