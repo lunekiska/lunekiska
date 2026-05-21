@@ -34,7 +34,5 @@ are not counted.
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app//api?username=lunekiska&count_private=true&theme=tokyonight&show_icons=true)
 
-![Top Languages](https://gh-readme-profile.vercel.app//api/top-langs/?username=lunekiska&layout=compact&theme=tokyonight)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
