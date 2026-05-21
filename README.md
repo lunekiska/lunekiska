@@ -32,7 +32,7 @@ I currently know Polish and English, but I wanna learn Japanese, Korean and mayb
 **NOTE:** Some stats may be incorrect as contributions to organizations
 are not counted.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lunekiska&count_private=true&theme=tokyonight&show_icons=true)
+![GitHub Stats](https://gh-readme-profile.vercel.app//api?username=lunekiska&count_private=true&theme=tokyonight&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lunekiska&layout=compact&theme=tokyonight)
 
