@@ -1,4 +1,4 @@
-<img align="left" alt="Avatar" width="200px" src="https://kisca.fluffberrycats.net/img/caty-facey-uwu.png" />
+<img align="left" alt="Avatar" width="200px" src="https://lunekiska.github.io/img/caty-facey-uwu.png" />
 
 ### 👋 Hewwo! I'm Lunekiska
 
